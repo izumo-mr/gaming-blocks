@@ -36,9 +36,9 @@ Feel free to use this pack in gameplay videos and livestreams.
 
 Found a bug, or have a block/item you'd like added? Please open an [Issue](../../issues) here on GitHub.
 
-You can also reach out by email: [gaming-blocks@example.com](dodges_lunged71@icloud.com?subject=Gaming%20Blocks%20-%20Bug%20Report)
+You can also reach out by email: [gaming-blocks@example.com](mailto:dodges_lunged71@icloud.com?subject=Gaming%20Blocks%20-%20Bug%20Report)
 
-メールでの連絡も受け付けています：[gaming-blocks@example.com](dodges_lunged71@icloud.com?subject=Gaming%20Blocks%20-%20Bug%20Report)
+メールでの連絡も受け付けています：[gaming-blocks@example.com](mailto:dodges_lunged71@icloud.com?subject=Gaming%20Blocks%20-%20Bug%20Report)
 
 **⚠️ Note:** For security reasons, I will not open any attached files or click links sent via email. If you have a bug report, please describe it in text (and use GitHub Issues if you need to share screenshots).
 
